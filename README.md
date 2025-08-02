@@ -44,9 +44,9 @@ So F = m x g = 1kg x 9.81 m/s^2 = 9.81 N
 
 ### Conversion to kg·cm (1 Nm ≈ 10.197 kg·cm):
 
-- **Joint 0**: 2.84 Nm × 10.197 = **29 kg·cm**  
-- **Joint 1**: 1.37 Nm × 10.197 = **14 kg·cm**  
-- **Joint 2**: 0.39 Nm × 10.197 = **4 kg·cm**
+- **Joint 0**: 2.8449 Nm × 10.197 = **29 kg·cm**  
+- **Joint 1**: 1.3734 Nm × 10.197 = **14 kg·cm**  
+- **Joint 2**: 0.3924 Nm × 10.197 = **4 kg·cm**
 
 ## Servo Motor Selection
 
