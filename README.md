@@ -103,7 +103,7 @@ Drawbacks of using gears with the same motors:
 - More moving parts = more friction and audible noise.
 
 5- Larger size
-= Gears take space = bulkier arm design.
+- Gears take space = bulkier arm design.
 
 6- Higher power consumption
 - Lifting heavier loads strains motors, increases current draw → possible overheating.
