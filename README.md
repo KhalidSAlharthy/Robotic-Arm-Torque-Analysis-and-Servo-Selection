@@ -8,7 +8,7 @@ This project analyzes the torque requirements of a 3-DOF robotic arm. It calcula
 - [Arm Configuration](#arm-configuration)
 - [Torque Calculations](#torque-calculations)
 - [Servo Motor Selection](#servo-motor-selection)
-- [References](#references)
+
 
 
 
