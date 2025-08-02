@@ -74,7 +74,9 @@ So F = m x g = 1kg x 9.81 m/s^2 = 9.81 N
 - Recommended for high-load base movement  
 - Buy from: [AliExpress](https://ar.aliexpress.com/item/1005007463297677.html)
 
-# Could the same motors selected from the previous mission lift a weight of 2 kilograms instead of 1 kilogram by adding some gears? What are the drawbacks that the user of this arm will face? What are the alternatives to address these drawbacks?
+---
+
+## Could the same motors selected from the previous mission lift a weight of 2 kilograms instead of 1 kilogram by adding some gears? What are the drawbacks that the user of this arm will face? What are the alternatives to address these drawbacks?
 Yes
 
 Joint 2 (Joint 2 to End Effector)
