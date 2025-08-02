@@ -88,16 +88,16 @@ Joint 1 (Joint 1 to Joint 2)
 Joint 0 (Base)
 - Gears are required. The required torque increases to 58 kg·cm, while the servo can handle up to 35 kg·cm.
 
-Drawbacks of using gears with the same motors:
+### Drawbacks of using gears with the same motors:
 
 1- Slower movement
-- Gear reduction trades speed for torque → arm becomes slower.
+- Gear reduction trades speed for torque = arm becomes slower.
 
 2- Increased mechanical complexity
-= Gears need precise alignment and mounting → more parts, more failure points.
+- Gears need precise alignment and mounting = more parts, more failure points.
 
 3- Backlash
-- Gears introduce play in movement → less precise positioning.
+- Gears introduce play in movement = less precise positioning.
 
 4- Noise & friction
 - More moving parts = more friction and audible noise.
@@ -106,9 +106,9 @@ Drawbacks of using gears with the same motors:
 - Gears take space = bulkier arm design.
 
 6- Higher power consumption
-- Lifting heavier loads strains motors, increases current draw → possible overheating.
+- Lifting heavier loads strains motors, increases current draw = possible overheating.
 
-Alternatives to using gears: 
+### Alternatives to using gears: 
 
 Instead of relying on gear systems, I recommended to use stronger servo motors that meet the torque requirements directly. This simplifies design, improves speed and accuracy, and reduces long-term maintenance.
 
