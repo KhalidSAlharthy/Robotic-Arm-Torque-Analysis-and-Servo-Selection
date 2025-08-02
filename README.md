@@ -89,6 +89,7 @@ Joint 1 (Joint 1 to Joint 2)
 Joint 0 (Base)
 - Gears are required. The required torque increases to 58 kg·cm, while the servo can handle up to 35 kg·cm.
 
+
 Drawbacks of using gears with the same motors:
 
 1- Slower movement
