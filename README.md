@@ -27,6 +27,7 @@ Torque (Nm) = Force (N) × Distance (m)
 Force(N) = mass (m) x acceleration due to gravity (g)
 
 m= 1 kg
+
 g= 9.81 m/s^2
 
 So F = m x g = 1kg x 9.81 m/s^2 = 9.81 N
