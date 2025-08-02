@@ -14,11 +14,6 @@ This project analyzes the torque requirements of a 3-DOF robotic arm. It calcula
 
 ## Arm Configuration
 
-- **Link 1 (Base to Joint 1)**: 4 cm  
-- **Link 2 (Joint 1 to Joint 2)**: 10 cm  
-- **Link 3 (Joint 2 to End Effector)**: 15 cm  
-- **Payload**: 1 kg (≈9.81 N)
-
 <img width="580" height="463" alt="Screenshot 2025-08-01 213938" src="https://github.com/user-attachments/assets/1653fd5a-e54d-4cba-9f54-4c7a6de685fd" />
 
 
