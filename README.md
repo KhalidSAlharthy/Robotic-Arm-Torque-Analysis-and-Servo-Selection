@@ -76,7 +76,8 @@ So F = m x g = 1kg x 9.81 m/s^2 = 9.81 N
 
 ---
 
-## Could the same motors selected from the previous mission lift a weight of 2 kilograms instead of 1 kilogram by adding some gears? What are the drawbacks that the user of this arm will face? What are the alternatives to address these drawbacks?
+### Could the same motors selected from the previous mission lift a weight of 2 kilograms instead of 1 kilogram by adding some gears? What are the drawbacks that the user of this arm will face? What are the alternatives to address these drawbacks?
+
 Yes
 
 Joint 2 (Joint 2 to End Effector)
@@ -88,7 +89,7 @@ Joint 1 (Joint 1 to Joint 2)
 Joint 0 (Base)
 - Gears are required. The required torque increases to 58 kg·cm, while the servo can handle up to 35 kg·cm.
 
-### Drawbacks of using gears with the same motors:
+Drawbacks of using gears with the same motors:
 
 1- Slower movement
 - Gear reduction trades speed for torque = arm becomes slower.
@@ -108,7 +109,7 @@ Joint 0 (Base)
 6- Higher power consumption
 - Lifting heavier loads strains motors, increases current draw = possible overheating.
 
-### Alternatives to using gears: 
+Alternatives to using gears: 
 
 Instead of relying on gear systems, I recommended to use stronger servo motors that meet the torque requirements directly. This simplifies design, improves speed and accuracy, and reduces long-term maintenance.
 
@@ -117,5 +118,5 @@ Instead of relying on gear systems, I recommended to use stronger servo motors t
 
 
 
-نسخ
-تحرير
+
+
